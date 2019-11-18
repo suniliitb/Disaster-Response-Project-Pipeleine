@@ -31,7 +31,7 @@ The Project is divided in the following Sections:
 
 3. Go to http://0.0.0.0:3002/
 
-### Files of importance:
+### Importance Files:
 
    * `app/templates/*` templates/html files for web app
    * `data/process_data.py`Extract Train Load (ETL) pipeline used for data cleaning, feature extraction, and storing
