@@ -1,4 +1,4 @@
-# Disaster-Response-Project-Pipeleine
+# Disaster-Response-Project-Pipeline
 
 ### Instructions to run the app:
 1. Run the following commands in the project's root directory to set up your database and model.
