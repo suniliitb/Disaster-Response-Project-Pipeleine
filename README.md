@@ -18,7 +18,7 @@ The Project is divided in the following Sections:
 * SQLlite Database Libraqries: SQLalchemy
 * Web App and Data Visualization: Flask, Plotly
 
-### Instructions to run the app:
+### Instructions to run the app
 1. Run the following commands in the project's root directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database
@@ -31,7 +31,7 @@ The Project is divided in the following Sections:
 
 3. Go to http://0.0.0.0:3002/
 
-### Important Files:
+### Important Files
 
    * `app/templates/*` templates/html files for web app
    * `data/process_data.py`Extract Train Load (ETL) pipeline used for data cleaning, feature extraction, and storing
